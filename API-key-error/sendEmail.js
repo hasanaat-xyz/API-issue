@@ -1,6 +1,6 @@
 import { Resend } from "resend";
 
-let apiKey = '';
+let apiKey = 'apikey';
 
 const resend = new Resend(apiKey);
 
