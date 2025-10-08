@@ -16,7 +16,6 @@ async function sendEmail(emailData){
       if (error) {
         return console.log({error});
     }
-
     console.log({data});
 
 }
